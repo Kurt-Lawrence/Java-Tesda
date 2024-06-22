@@ -1,5 +1,5 @@
 
-public class Api{
+public class CumulativeSum{
 
     public static void main(String[] args) {
 
