@@ -16,6 +16,8 @@ public class NumberToDay{
 
         System.out.println("Enter number of day: ");
         int day = in.nextInt();
+
+        in.close();
        
         System.out.println(numberToDay(day));
         
