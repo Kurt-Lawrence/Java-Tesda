@@ -11,6 +11,8 @@ public class MultiplcationTable {
         System.out.print("Enter number for multiplication table: ");
         multiplcationTable(in.nextInt());
 
+        in.close();
+
     }
 
     static void multiplcationTable(int num){
