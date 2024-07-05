@@ -41,6 +41,7 @@ public class StringBuilderMethods {
             System.out.println(word.indexOf("a"));
             System.out.println(word.substring(3,6));
             System.out.println(word.append("123"));
+            System.out.println(word.insert(4, "xyz"));
             System.out.println(word.delete(2, 4));
             System.out.println(word.deleteCharAt(8));
             System.out.println(word.reverse());
